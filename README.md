@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @sudarshan_sahu
 - 👀 Interested in everything 'Python'   
-- 🌱 Currently learning to code the mundane out the world
+- 🌱 Currently learning to code the mundane out of the world
 - 💞️ Looking to collaborate on ML,DL,and Data Science projects 
-- 📫 Reach me sudarshan491990@gmail.com 
-- This is a test vscode push
+- 📫 Reach me sudarshan491990@gmail. 
 
 <!---
 sudarshan4990/Git'chya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
